@@ -12,9 +12,10 @@
     <string name="bagikan">Bagikan</string>
     <string name="sarantxt">Saran</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
-<string name="copyright">CalorieCounter adalah aplikasi penghitung kalori yang inovatif yang dirancang untuk membantu pengguna dalam mengelola asupan kalori mereka dan memberikan saran yang sesuai dengan kebutuhan individu. </string>
+    <string name="copyright">CalorieCounter adalah aplikasi penghitung kalori yang inovatif yang dirancang untuk membantu pengguna dalam mengelola asupan kalori mereka dan memberikan saran yang sesuai dengan kebutuhan individu. </string>
     <string name="belum_ada_data">Belum ada data</string>
     <string name="histori">Histori</string>
+    <string name="api">Kegiatam</string>
     <string name="berat_validasi">Berat Tidak boleh kosong</string>
     <string name="tinggi_validasi">Tinggi Tidak boleh kosong</string>
     <string name="umur_validasi">Umur Tidak boleh kosong</string>
@@ -41,4 +42,12 @@
     <string name="batal">batal</string>
     <string name="hasil_x">Calorie: %1$.2f - %2$s</string>
     <string name="data_x">BB: %1$.1f - TB: %2$.1f - %3$s</string>
+    <string name="message">%1$s diklik!</string>
+    <string name="koneksi_error">Koneksi Error</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update Kegiatan otomatis</string>
+    <string name="notif_title">Ada Kegiatan Baru Nih Biar Kamu Ga Mager !</string>
+    <string name="notif_text">Lakuin Sekarang Yuk</string>
+
+
 </resources>

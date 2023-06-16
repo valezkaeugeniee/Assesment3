@@ -17,9 +17,14 @@
         <action
             android:id="@+id/action_hitungFragment_to_aboutFragment"
             app:destination="@id/aboutFragment" />
+
         <action
             android:id="@+id/action_hitungFragment_to_historiFragment"
             app:destination="@id/historiFragment" />
+
+        <action
+            android:id="@+id/action_hitungFragment_to_apiFragment"
+            app:destination="@id/apiFragment" />
     </fragment>
 
     <action
@@ -33,6 +38,7 @@
     <action
         android:id="@+id/action_hitungFragment_to_historiFragment"
         app:destination="@id/historiFragment" />
+
 
     <fragment
         android:id="@+id/saranFragment"
@@ -82,7 +88,11 @@
         android:name="org.d3if3062.mobpro1.ui.histori.HistoriFragment"
         android:label="@string/histori"
         tools:layout="@layout/fragment_histori" />
-
+    <fragment
+        android:id="@+id/apiFragment"
+        android:name="org.d3if3062.mobpro1.ui.api.ApiFragment"
+        android:label="@string/api"
+        tools:layout="@layout/fragment_api" />
 
 
 </navigation>

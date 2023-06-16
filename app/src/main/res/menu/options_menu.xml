@@ -10,4 +10,10 @@
         android:title="@string/histori"
         app:showAsAction="ifRoom" />
 
+    <item
+        android:id="@+id/menu_kegiatan"
+        android:icon="@drawable/ic_kegiatan"
+        android:title="Kegiatan"
+        app:showAsAction="always"/>
+
 </menu>
